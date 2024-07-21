@@ -16,5 +16,5 @@ Faculty of Health and Sciences (staff and students labs are situated on separate
 6. Configuring DHCP Server (Router as the DHCP Server)
 7. Configuring SSH for secure Remote access
 8. Configuring RIPv2 as the routing protocol
-9. Configuring switchport security or Port-Security on the switches
+9. Configuring Email and Web Server
 10. Host Device Configurations
